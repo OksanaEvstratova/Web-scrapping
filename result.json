@@ -1,0 +1,122 @@
+[
+    {
+        "link": "https://spb.hh.ru/vacancy/88593532?query=django%2C+flask&hhtmFrom=vacancy_search_list",
+        "salary": 0,
+        "company": "Компания Самолет",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/91486275?query=django%2C+flask&hhtmFrom=vacancy_search_list",
+        "salary": "от 200000 ₽",
+        "company": "Hyper AdTech",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/91919446?query=django%2C+flask&hhtmFrom=vacancy_search_list",
+        "salary": 0,
+        "company": "GRI",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/91672663?query=django%2C+flask&hhtmFrom=vacancy_search_list",
+        "salary": "до 75000 ₽",
+        "company": "Имаклик",
+        "city": "Санкт-Петербург, Елизаровская"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/91827329?query=django%2C+flask&hhtmFrom=vacancy_search_list",
+        "salary": 0,
+        "company": "АНО ЦИСМ",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/92279274?query=django%2C+flask&hhtmFrom=vacancy_search_list",
+        "salary": 0,
+        "company": "ТерраЛинк",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/91292655?query=django%2C+flask&hhtmFrom=vacancy_search_list",
+        "salary": "180000 – 250000 ₽",
+        "company": "ООО РА Дельта",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/91154563?query=django%2C+flask&hhtmFrom=vacancy_search_list",
+        "salary": 0,
+        "company": "ООО КСА",
+        "city": "Москва, Воронцовская и еще 1 "
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/92279183?query=django%2C+flask&hhtmFrom=vacancy_search_list",
+        "salary": 0,
+        "company": "М.Видео-Эльдорадо. ИТ",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/72687504?query=django%2C+flask&hhtmFrom=vacancy_search_list",
+        "salary": "150000 – 200000 ₽",
+        "company": "ООО Селфсек",
+        "city": "Москва, Трубная и еще 2 "
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/92267714?query=django%2C+flask&hhtmFrom=vacancy_search_list",
+        "salary": 0,
+        "company": "Evvve",
+        "city": "Санкт-Петербург"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/92281844?query=django%2C+flask&hhtmFrom=vacancy_search_list",
+        "salary": "100000 – 120000 ₽",
+        "company": "HEADS and HANDS",
+        "city": "Санкт-Петербург"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/91384009?query=django%2C+flask&hhtmFrom=vacancy_search_list",
+        "salary": 0,
+        "company": "АО ОКЕНИТ",
+        "city": "Санкт-Петербург, Новочеркасская"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/91479853?query=django%2C+flask&hhtmFrom=vacancy_search_list",
+        "salary": "от 80000 ₽",
+        "company": "Film Direction",
+        "city": "Москва, Белорусская"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/92212007?query=django%2C+flask&hhtmFrom=vacancy_search_list",
+        "salary": 0,
+        "company": "ООО WaveAccess",
+        "city": "Санкт-Петербург"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/91997753?query=django%2C+flask&hhtmFrom=vacancy_search_list",
+        "salary": 0,
+        "company": "Secreate",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/91987693?query=django%2C+flask&hhtmFrom=vacancy_search_list",
+        "salary": "до 450000 ₽",
+        "company": "Точка",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/91366305?query=django%2C+flask&hhtmFrom=vacancy_search_list",
+        "salary": 0,
+        "company": "ООО Даком М",
+        "city": "Санкт-Петербург"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/92221985?query=django%2C+flask&hhtmFrom=vacancy_search_list",
+        "salary": 0,
+        "company": "HuntIT",
+        "city": "Санкт-Петербург"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/91397793?query=django%2C+flask&hhtmFrom=vacancy_search_list",
+        "salary": 0,
+        "company": "Weborama Russia",
+        "city": "Москва, Комсомольская и еще 1 "
+    }
+]
